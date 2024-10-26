@@ -1,5 +1,7 @@
 # Brick-Breaker-Game-using-CPP-Graphics-Library
 
+## Note : put all the music files (having .wav) extension in the folder name "music files" to get music
+
 This game was made as a First Semester Project of BSCS to give strong foundation to our fundamental programming concepts.
 
 ### Graphics Library : 
